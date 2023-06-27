@@ -28,7 +28,7 @@ Click below to navigate to corresponding sections
   "jsonwebtoken": "^9.0.0",
   "mongoose": "^7.0.2"
   
-##Usage
+## Usage
 -AS AN avid reader
 -I WANT to search for new books to read
 -SO THAT I can keep a list of books to purchase
